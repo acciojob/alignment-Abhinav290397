@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+table{
+	width:100%;
+}
+td{
+	border:1px solid black;
+	height:15px;
+}
+#table-1{
+	border:1px solid black;
+	
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+#table-2{
+	border:1px solid black;
+}
+
+#table-3{
+	border:1px solid black;
+}
+.blue{
+	background-color:blue;
+	height:10px;
+}
+.green{
+	background-color:green;
+	height:10px;
+}
+.image{
+	text-align:center;
+	vertical-align:middle;
+}
